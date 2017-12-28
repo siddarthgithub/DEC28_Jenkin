@@ -1,0 +1,3 @@
+http://confluence.sfam.americas.bmw.corp:8090/display/TA/Ruby+Mine+Setup
+http://confluence.sfam.americas.bmw.corp:8090/display/1RUDI/Ruby+Cucumber+Setup 
+http://confluence.sfam.americas.bmw.corp:8090/display/TA/Ruby+Mine+Setup
